@@ -2,7 +2,7 @@ apiVersion: v2
 publisher: eclipse
 name: ideaIC-NOVNC
 version: 2020.2.3
-type: cheEditor
+type: Che Editor
 displayName:  IntelliJ IDEA Community Edition
 title:  IntelliJ IDEA Community Edition (in browser using noVNC) as editor for Eclipse Che
 description:  IntelliJ IDEA Community Edition running on the Web with noVNC
