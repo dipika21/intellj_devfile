@@ -24,7 +24,7 @@ spec:
      image: "quay.io/crw/plugin-intellij-rhel8:latest"
      mountSources: true
      volumes:
-         - mountPath: "/JetBrains/IdeaIC"
+         - mountPath: "/JetBrains/ideaIC"
            name: idea-configuration
      ports:
          - exposedPort: 8080
